@@ -1,5 +1,5 @@
-<h1 align="center">Hej 👋, jestem Remixiak</h1>
-<h3 align="center">Uczący się developer</h3>
+<h1 align="center" style="color:black">Hej 👋, jestem Remixiak</h1>
+<h3 align="center" style="color:black">Uczący się developer</h3>
 
 - 🌱 Uczę się **JavaScript, CSS, Sass**
 
