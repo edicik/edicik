@@ -6,6 +6,7 @@
 - 🌱 Portfolio: **Soon**
 
 <h3 align="left">Contact me with:</h3>
+
 - Discord - **Remixiak#4945**
 
 - Mail - **kontakt@remixiak.pl**
