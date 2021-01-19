@@ -1,14 +1,11 @@
-<h1 align="center" style="color:white;">Hej 👋, jestem Remixiak</h1>
-<h3 align="center" style="color:white;">Uczący się developer</h3>
+<h1 align="center" style="color:white;">Hi! I'm Remixiak</h1>
+<h3 align="center" style="color:white;">Begginer Developer</h3>
 
-- 🌱 Uczę się **JavaScript, CSS, Sass**
+- 🌱 Languages: **JavaScript, HTML, CSS**
 
-- 📝 Moja strona [https://remixiak.pl](https://remixiak.pl)
+- 🌱 Portfolio: **Soon**
 
-- 📫 Mail **remixiak7987@gmail.com**
+<h3 align="left">Contact me with:</h3>
+- Discord - **Remixiak#4945**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rmx.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rmx.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/remixiak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="remixiak" height="30" width="40" /></a>
-</p>
+- Mail - **kontakt@remixiak.pl**
