@@ -1,9 +1,11 @@
-<h1 align="center" style="color:white;">Hi! I'm Remixiak</h1>
-<h3 align="center" style="color:white;">Begginer Developer</h3>
+<h1 align="center" style="color:white;">Remixiak</h1>
+<h3 align="center" style="color:white;">Developer & GFX</h3>
 
-- 🌱 Languages: **JavaScript, HTML, CSS**
+- 🌱 What I develop: **Sites, Bots on discord**
 
-- 🌱 Portfolio: **Soon**
+- 🌱 Project: **Diffuse Dashboard**
+
+- 🌱 Api: **api.remixiak.pl**
 
 <h3 align="left">Contact me with:</h3>
 
