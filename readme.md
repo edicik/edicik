@@ -5,7 +5,7 @@
 
 - 🌱 Project: **Diffuse Dashboard**
 
-- 🌱 Api: **api.remixiak.pl**
+- 🌱 API: **api.remixiak.pl**
 
 <h3 align="left">Contact me with:</h3>
 
