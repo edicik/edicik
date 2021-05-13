@@ -3,7 +3,7 @@
 
 - 🌱 What I develop: **Sites, Bots on discord**
 
-- 🌱 Project: **Diffuse Dashboard**
+- 🌱 Project: **Status Page**
 
 - 🌱 API: **api.remixiak.pl**
 
