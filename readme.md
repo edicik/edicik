@@ -10,3 +10,5 @@
 - Discord - **Remixiak#4945**
 
 - Mail - **kontakt@remixiak.pl**
+
+![](https://komarev.com/ghpvc/?username=thatRemixiak&color=blueviolet&style=flat-square&label=Wyświetlenia+profilu+(09.08.2021)+:D)
