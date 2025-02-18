@@ -1,4 +1,4 @@
-# 2024 Stats
+# 2025 Stats
 ![](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Remixiak/interval:year&label=Coded%20for&color=blue) <br>
 
 # Stats
